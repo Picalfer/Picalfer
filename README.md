@@ -7,11 +7,11 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Picalfer?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-## I'm a Android Developer, and Teacher
+## I'm an Android Developer, and Teacher
 - 💪 I like to write code
 - 👅 I love to learn foreign languages(English, Japanese)
 - 🥅 I am constantly learning new things
-- 🚴 I love reding BMX
+- 🚴 I love riding BMX
 
 <br />
 
@@ -42,9 +42,9 @@
 
 <br />
 
-<summary>:zap: Statistics:</summary>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Picalfer&langs_count=8&layout=compact" />
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Picalfer&show_icons=true" />
+### :zap: Statistics:
+<img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Picalfer&langs_count=8&layout=compact" />
+<img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Picalfer&show_icons=true" />
 
 
 [website]: https://picalfer.github.io/my_resume/
