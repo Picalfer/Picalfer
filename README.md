@@ -1,13 +1,18 @@
-### Hi there 👋, I'm Arthur
 
-![](https://komarev.com/ghpvc/?username=Picalfer&color=red)
+   
+<div id="header" align="center">
+	<img align='right' src="https://user-images.githubusercontent.com/120378890/223352441-ead538c8-027a-478f-b71c-94ce3659f41a.gif" width="230">
+   <h1> Hi there 👋, I'm Arthur </h1>
 
-   <p align="left">
-      <a href="https://github.com/Picalfer?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Picalfer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Picalfer?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Picalfer?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+  
+   ![](https://komarev.com/ghpvc/?username=Picalfer&color=red)
+   <a href="https://github.com/Picalfer?tab=followers">
+   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Picalfer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/Picalfer?tab=repositories&sort=stargazers">
+   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Picalfer?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   
+	
+</div>
 
 ## I'm an Android Developer, and Teacher
 - 💪 I like to write code
