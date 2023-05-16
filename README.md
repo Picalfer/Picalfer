@@ -29,8 +29,8 @@
 <br />
 <br />
 
-### [<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] [Check my resume](https://picalfer.github.io/my_resume/)
-
+### Check my resume <a href="https://picalfer.github.io/my_resume/"> <img alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a> 
 
 ### Connect with me:
 
