@@ -6,6 +6,7 @@
 
   
    ![](https://komarev.com/ghpvc/?username=Picalfer&color=red)
+   [![wakatime](https://wakatime.com/badge/user/c5c001a6-c6aa-4c08-9288-ab8e69e1e02c.svg)](https://wakatime.com/@c5c001a6-c6aa-4c08-9288-ab8e69e1e02c)
    <a href="https://github.com/Picalfer?tab=followers">
    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Picalfer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <a href="https://github.com/Picalfer?tab=repositories&sort=stargazers">
@@ -55,6 +56,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Picalfer&show_icons=true&theme=tokyonight)
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@landfathich/f932edf3-827e-4caf-b9ee-a7d1b862d36b.png" /></a>
 
 
 
