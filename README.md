@@ -47,6 +47,7 @@
 
 [<img align="left" alt="ArthurKozhemyakin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ArthurKozhemyakin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="ArthurKozhemyakin | Habr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/habr.svg" />][habr]
 <img align="left" alt="ArthurKozhemyakin | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /> @landfathich
 
 <br />
@@ -63,3 +64,4 @@
 [website]: https://picalfer.github.io/my_resume/
 [twitter]: https://twitter.com/@landfathich
 [vk]: https://vk.com/xto_ya_chedder
+[habr]: https://career.habr.com/landfathich
